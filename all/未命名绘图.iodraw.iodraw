@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yNI6Tv3WTNsmax6zjEGj-1" value="树莓派 4B（主控板）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="900" height="1078" as="geometry" />
+          <mxGeometry x="20" y="20" width="900" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="yNI6Tv3WTNsmax6zjEGj-2" value="语音输入&#xa;USB 麦克风" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="82" y="71" width="140" height="66" as="geometry" />
